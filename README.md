@@ -1,0 +1,2 @@
+# pnmconfig
+pnm configurations
